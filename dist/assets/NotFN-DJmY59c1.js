@@ -1,0 +1,1 @@
+import{_ as t,c as s,o,a as e}from"./index-Diq6ZXmI.js";const c={},n={class:"h-screen text-7xl bm"},_=e("h1",{class:"text-7xl"},"404",-1),a=e("h2",null,"Not - Found",-1),r=[_,a];function d(l,h){return o(),s("div",n,r)}const x=t(c,[["render",d]]);export{x as default};
