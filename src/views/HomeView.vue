@@ -10,7 +10,7 @@ export default {
       if (this.searchQuery.toLowerCase() === "bahirdar") {
         this.$router.push({ name: "about" });
       } else {
-        this.$router.push({ name: "k" });
+        this.$router.push({ name: "Notf" });
       }
     },
   },
