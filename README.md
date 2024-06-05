@@ -1,3 +1,7 @@
+here is a link to see this vue project for rick and morty tv show that is deployed in netlify =>
+https://rick-and-morty-movie-website.netlify.app/
+
+
 # vue-project
 
 This template should help get you started developing with Vue 3 in Vite.
