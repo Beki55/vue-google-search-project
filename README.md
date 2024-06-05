@@ -1,6 +1,3 @@
-Here is a link to see this vue project for rick and morty tv show that is deployed in netlify =>
-https://rick-and-morty-movie-website.netlify.app/
-
 
 # vue-project
 
